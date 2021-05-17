@@ -274,7 +274,7 @@ a {
   left: 100px;
   top: 200px;
   color: #000000;
-  background-color: rgba(196, 196, 196, 60%);
+  background-color: rgba(196, 196, 196, 76%);
 }
 .carousel-inner .carousel-item .box h3 {
   color: #000000;
@@ -449,7 +449,7 @@ section .row .block-4-background .block-4 .video-box {
   height: 399px;
   border-radius: 118px;
   position: relative;
-  top: 120px;
+  top: 70px;
   background-color: var(--secondery-color);
   right: -29px;
   margin-bottom: 20px;
@@ -457,7 +457,7 @@ section .row .block-4-background .block-4 .video-box {
 section .row .block-4-background .block-4 .video-box .video img {
   position: absolute;
   top: 20px;
-  right: -50px;
+/*   right: -50px; */
   z-index: 10;
 }
 section .row .block-4-background .block-4 .video-box .play-1 img {
@@ -498,11 +498,11 @@ section .row .box-item .card .card-body .card-text {
   }
 }
 @media (max-width: 768px) {
-  .slick-next,
+/*   .slick-next,
   .slick-prev {
     width: 50px;
     margin-right: 15px;
-  }
+  } */
   .logo-slider p {
     font-size: 10px;
   }
