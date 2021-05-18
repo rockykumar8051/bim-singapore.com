@@ -321,7 +321,7 @@ a {
 @media (max-width: 524px) {
   .carousel-inner .carousel-item img {
     margin-top: 20px;
-    height: 70vh;
+    height: 60vh;
   }
 
   .carousel-inner .carousel-item .box {
