@@ -297,7 +297,9 @@ a {
   font-family: sans-serif;
 }
 
+
 .carousel-inner .carousel-item .box button {
+  box-shadow: 0 3px 10px #000000;
   position: absolute;
   border: none;
   left: 60px;
